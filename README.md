@@ -1,14 +1,15 @@
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello_World
 
-> Description the project.
+>In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
+- html
+- github tech
 - Technologies used
 
 ## Live Demo (if available)
@@ -42,15 +43,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@FaranoshAmini](https://github.com/FaranoshAmini)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
